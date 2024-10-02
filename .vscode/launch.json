@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "Java_62b9eafa"
+        },
+        {
+            "type": "java",
+            "name": "sumfunc",
+            "request": "launch",
+            "mainClass": "sumfunc",
+            "projectName": "Java_62b9eafa"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "Java_62b9eafa"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ch",
+            "request": "launch",
+            "mainClass": "Ch",
+            "projectName": "Java_62b9eafa"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Java_62b9eafa"
+        },
+        {
+            "type": "java",
+            "name": "Firstassign",
+            "request": "launch",
+            "mainClass": "Firstassign",
+            "projectName": "Java_62b9eafa"
+        },
+        {
+            "type": "java",
+            "name": "PrimeExample",
+            "request": "launch",
+            "mainClass": "PrimeExample",
+            "projectName": "Java_62b9eafa"
+        },
+        {
+            "type": "java",
+            "name": "Temperature",
+            "request": "launch",
+            "mainClass": "Temperature",
+            "projectName": "Java_62b9eafa"
+        },
+        {
+            "type": "java",
+            "name": "Third",
+            "request": "launch",
+            "mainClass": "Third",
+            "projectName": "Java_62b9eafa"
+        }
+    ]
+}
